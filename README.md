@@ -19,23 +19,23 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 1. Akses alamat https://github.com/
 2. Masukkan username, alamat email, dan password lalu klik sign up
 
-![](assets/signup.PNG)
+![](assets/signup.png)
 
 3. Lakukan verifikasi:
 
-![](assets/verify.PNG)
+![](assets/verify.png)
 
 4. Lakukan *completing setup*:
 
-![](assets/completesetup.PNG)
+![](assets/completesetup.png)
 
 5. Buka email kemudian lakukan verifikasi akun
 
-![](assets/verifyemail.PNG)
+![](assets/verifyemail.png)
 
 6. Ketika akun sudah terverifikasi dan telah melakukan log in, maka akan muncul tampilan seperti ini:
 
-![](assets/login.PNG)
+![](assets/login.png)
 
 ### Ask & Discuss
 
@@ -46,32 +46,32 @@ Berikut adalah **cara bertanya**:
 1. Sign in pada akun GitHub
 2. Masuk ke [GitHub Algoritma Community - Discussion](https://github.com/teamalgoritma/community/discussions)
 
-![](assets/home.PNG)
+![](assets/home.png)
 
 3. Klik **"New Discussion"**
 4. Ajukan pertanyaan pada kolom yang disediakan:
   a. Isi poin/judul pertanyaan/error
-  b. Isi detail pertanyaan/error. Ceritakan permasalahan secara umum terlebih dahulu sebelum melampirkan code/poin pertanyaan. Lampirkan code yang digunakan serta error message yang dihasilkan. Masukan bagian code/error di antara tanda (```) 
+  b. Isi detail pertanyaan/error. Ceritakan permasalahan secara umum terlebih dahulu sebelum melampirkan code/poin pertanyaan. Lampirkan code yang digunakan serta error message yang dihasilkan. Masukan bagian code/error di antara tanda backtick ` ``` `. 
   c. Select Category > QnA
   d. Klik "Start Discussion"
 
-![](assets/ask.PNG)
+![](assets/ask.png)
 
 5. Pertanyaan/diskusi telah terbuka:
 
-![](assets/opendiscuss.PNG)
+![](assets/opendiscuss.png)
 
 6. Jawaban akan diberikan oleh Mentor/Student lain pada kolom **"Write"** di bagian bawah suatu diskusi. 
 
-![](assets/write.PNG)
+![](assets/write.png)
 
 Diskusi untuk tiap jawaban dapat terus dilanjutkan dengan memberikan komentar pada jawaban tersebut. Sedangkan saran jawaban baru dapat dibuat pada kolom Write yang baru.
 
-![](assets/answerreply.PNG)
+![](assets/answerreply.png)
 
 7. Bila ada solusi yang dapat menjawab pertanyaan Anda, silahkan klik "Mark as answer" pada jawaban tersebut. Pertanyaan telah terjawab.
 
-![](assets/answer.PNG)
+![](assets/answer.png)
 
 
 
