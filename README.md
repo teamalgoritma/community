@@ -23,15 +23,15 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 
 3. Lakukan verifikasi:
 
-![](assets/verify.png)
+<center> <img src="assets/verify.png" title="verify" width="400" height="400" /> </center>
 
 4. Lakukan *completing setup*:
 
-![](assets/completesetup.png)
+<center> <img src="assets/completesetup.png" title="completesetup" width="400" height="350" /> </center>
 
 5. Buka email kemudian lakukan verifikasi akun
 
-![](assets/verifyemail.png)
+<center> <img src="assets/verifyemail.png" title="verivyemail" width="800" height="350" /> </center>
 
 6. Ketika akun sudah terverifikasi dan telah melakukan log in, maka akan muncul tampilan seperti ini:
 
@@ -50,12 +50,18 @@ Berikut adalah **cara bertanya**:
 
 3. Klik **"New Discussion"**
 4. Ajukan pertanyaan pada kolom yang disediakan:
-  a. Isi poin/judul pertanyaan/error
-  b. Isi detail pertanyaan/error. Ceritakan permasalahan secara umum terlebih dahulu sebelum melampirkan code/poin pertanyaan. Lampirkan code yang digunakan serta error message yang dihasilkan. Masukan bagian code/error di antara tanda backtick ` ``` `. 
-  c. Select Category > QnA
-  d. Klik "Start Discussion"
 
-![](assets/ask.png)
+    a. Isi poin/judul pertanyaan/error  
+    
+    b. Isi detail pertanyaan/error
+    
+    c. Select Category > QnA
+    
+    d. Klik "Start Discussion"
+    
+Tips bertanya efektif: Ceritakan permasalahan secara umum terlebih dahulu sebelum melampirkan code/poin pertanyaan. Lampirkan pula code yang digunakan serta error message yang dihasilkan. Masukan bagian code/error di antara tanda backtick ` ``` `.
+
+<center> <img src="assets/ask.png" title="ask" width="800" height="500" /> </center>
 
 5. Pertanyaan/diskusi telah terbuka:
 
