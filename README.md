@@ -4,6 +4,13 @@ A community to [ask questions](https://github.com/teamalgoritma/community/discus
 
 Komunitas untuk pemula maupun yang telah berpengalaman dalam data science untuk berdiskusi terkait data science, R/Python programming, dan data. Silahkan bergabung!
 
+# Table of Content
+
+* [Community Moderators](https://github.com/teamalgoritma/community#community-moderators)
+* Join the Discussion:
+    - [Create GitHub Account](https://github.com/teamalgoritma/community#create-github-account)
+    - [How to Ask & Discuss](https://github.com/teamalgoritma/community#ask--discuss)
+
 ## Community Moderators 
 
 - Samuel Chan ([@onlyphantom](https://github.com/onlyphantom))
@@ -37,7 +44,7 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 
 ![](assets/login.png)
 
-### Ask & Discuss
+### How to Ask & Discuss
 
 Algoritma memiliki **GitHub Algoritma Community** berupa platform untuk Student bertanya terkait pertanyaan teknikal (code/error/aplikasi data science). Pertanyaan Student dapat dijawab oleh Mentor ataupun Student lainnya. Hal ini diharapkan membantu Student selama memperdalam/melakukan review materi, membiasakan kultur *sharing*, *peer-to-peer learning*, dan aktif dalam komunitas data science!
 
