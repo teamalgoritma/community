@@ -9,7 +9,7 @@ Komunitas untuk pemula maupun yang telah berpengalaman dalam data science untuk 
 * [Community Moderators](https://github.com/teamalgoritma/community#community-moderators)
 * Join the Discussion:
     - [Create GitHub Account](https://github.com/teamalgoritma/community#create-github-account)
-    - [How to Ask & Discuss](https://github.com/teamalgoritma/community#ask--discuss)
+    - [How to Ask & Discuss](https://github.com/teamalgoritma/community#how-to-ask--discuss)
 
 ## Community Moderators 
 
