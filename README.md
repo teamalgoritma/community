@@ -24,25 +24,25 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 ### Create GitHub Account
 
 1. Akses alamat https://github.com/
-2. Klik tombol “Sign up” dan akan muncul halaman sebagai berikut:
+2. Klik tombol "Sign up" dan akan muncul halaman sebagai berikut:
 
 ![](assets/signup.png)
 
-3. Masukkan alamat email, password, username, serta apakah ingin berlangganan info terkait produk GitHub. Lalu silahkan klik tombol “Continue”.
+3. Masukkan alamat email, password, username, serta apakah ingin berlangganan info terkait produk GitHub. Lalu silahkan klik tombol "Continue".
 
-![](assets/signup2.png)
+<center> <img src="assets/signup2.png" title="signup2" width="400" height="400"/> </center>
 
-3. Verifikasi akun Anda dengan memilih gambar yang tepat. Apabila sudah selesai, silahkan klik “Create account”.
+3. Verifikasi akun Anda dengan memilih gambar yang tepat. Apabila sudah selesai, silahkan klik "Create account".
 
-<center> <img src="assets/verify.png" title="verify" width="600" height="400" /> </center>
+<center> <img src="assets/verify.png" title="verify" width="700" height="400" /> </center>
 
 4. Buka akun email Anda kemudian lakukan verifikasi dengan memasukkan kode verifikasi.
 
-<center> <img src="assets/verifyemail.png" title="verivyemail" width="400" height="350" /> </center>
+<center> <img src="assets/verifyemail.png" title="verivyemail" width="600" height="300" /> </center>
 
-5. Ketika akun Anda sudah terverifikasi, maka akan muncul tampilan untuk personalisasi GitHub Anda. Jika ingin mengaturnya nanti, silahkan klik “Skip personalization”.
+5. Ketika akun Anda sudah terverifikasi, maka akan muncul tampilan untuk personalisasi GitHub Anda. Jika ingin mengaturnya nanti, silahkan klik "Skip personalization".
 
-<center> <img src="assets/completesetup.png" title="completesetup" width="800" height="350" /> </center>
+![](assets/completesetup.png)
 
 6. Pembuatan github Anda sudah selesai dan akan muncul halaman sebagai berikut.:
 
