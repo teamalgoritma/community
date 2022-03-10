@@ -30,7 +30,7 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 
 3. Masukkan alamat email, password, username, serta apakah ingin berlangganan info terkait produk GitHub. Lalu silahkan klik tombol "Continue".
 
-<center> <img src="assets/signup2.png" title="signup2" width="400" height="400"/> </center>
+<center> <img src="assets/signup2.png" title="signup2" width="450" height="400"/> </center>
 
 3. Verifikasi akun Anda dengan memilih gambar yang tepat. Apabila sudah selesai, silahkan klik "Create account".
 
