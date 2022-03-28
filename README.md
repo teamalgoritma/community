@@ -15,7 +15,9 @@ Komunitas untuk pemula maupun yang telah berpengalaman dalam data science untuk 
 
 - Samuel Chan ([@onlyphantom](https://github.com/onlyphantom))
 - Nabiilah Ardini Fauziyyah ([@NabiilahArdini](https://github.com/NabiilahArdini))
-- David Limbong ([@Davidlimbong](https://github.com/Davidlimbong))
+- Tomy Tjandra ([@tomytjandra](https://github.com/tomytjandra))
+- Dyah Nurlita ([@Litaa](https://github.com/Litaa)
+- Handoyo Sjarif ([@Han](https://github.com/t3981-h))
 
 ## Join the Discussion
 
