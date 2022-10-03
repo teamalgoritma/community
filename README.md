@@ -21,7 +21,13 @@ Komunitas untuk pemula maupun yang telah berpengalaman dalam data science untuk 
 
 ## Join the Discussion
 
-Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki akun GitHub dan mengikuti panduan cara bertanya di Algoritma Community! Berikut panduannya:
+Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki akun GitHub dan mengikuti panduan cara bertanya di Algoritma Community! Berikut panduannya melalui video/text:
+
+* **Video Tutorial:**
+
+<a href=" {https://drive.google.com/file/d/1DrRxdYV0YL7P2qlHy9RMzeta-lTPLI6h/view}" title="Tutorial Algoritma GitHub Community"><img src=" {https://drive.google.com/file/d/1E6ECMdgUkBCjx5uKkUDBidMjb-VdsWrt/view?usp=sharing}" alt="Tutorial Algoritma GitHub Community" /></a>
+
+* **Teks Panduan:**
 
 ### Create GitHub Account
 
