@@ -25,7 +25,7 @@ Untuk bertanya dan mengikuti diskusi di Algoritma Community, kamu harus memiliki
 
 * **Video Tutorial:**
 
-[Tutorial Algoritma GitHub Community](https://drive.google.com/file/d/1DrRxdYV0YL7P2qlHy9RMzeta-lTPLI6h/view?usp=sharing)
+[Tutorial Algoritma GitHub Community](https://drive.google.com/file/d/1TY7XOa7PvwDKG_hLhyJzmfdPoK315FVd/view?usp=sharing)
 
 * **Teks Panduan:**
 
